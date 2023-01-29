@@ -36,5 +36,8 @@ public T[] toArray();
 - Write unit tests to verify your implementation. 
 - Create a 3-minute maximum YouTube video to demonstrate your work.
 
+## Deliverables
+- The YT link.
+
 
 
