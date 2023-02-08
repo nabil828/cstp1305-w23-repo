@@ -42,8 +42,7 @@ Create the following java functions
 - `public static Set difference(Set A, Set B)` implements A − B: removing all elements of B from A
 
 
-
-Bonus - More Implementation Details 
+**More Implementation Details** 
 <!-- - [x] a custom/user-defined exception should be raised whenever the you reach maximum capacity is reached. -->
 - [x] a custom/user-defined exception should be raised whenever the set is accessed while empty.
 - [x] Implement the ADT using an interface
