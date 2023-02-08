@@ -7,7 +7,6 @@
 
 
 
-**Set ADT**
 **The Set ADT - Part I [40%]**
 *Set* is Unordered collection of elements – no duplicates.
 {1, 3, 8} is the same as {3, 8, 1}
