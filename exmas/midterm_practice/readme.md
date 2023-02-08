@@ -36,9 +36,10 @@ Set union (S ∪ S'), set intersection (S ∩ S') and set difference (i.e. subtr
 Each of these operation will result a new set.
 
 Create the following java functions
-• `public static Set union(Set A, Set B)` implements A ∪ B: add all the element of A to B
-• `public static Set intersect(Set A, Set B)` implements A ∩ B: retain only the common elements between A and B
-• `public static Set difference(Set A, Set B)` implements A − B: removing all elements of B from A
+
+- `public static Set union(Set A, Set B)` implements A ∪ B: add all the element of A to B
+- `public static Set intersect(Set A, Set B)` implements A ∩ B: retain only the common elements between A and B
+- `public static Set difference(Set A, Set B)` implements A − B: removing all elements of B from A
 
 
 
