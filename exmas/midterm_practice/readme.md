@@ -14,15 +14,15 @@
 The Set ADT maximum capacity is 10 elements.
 
 Implement the following core methods in the Set ADT
--add(item)
--remove(item)
--contains(item)
+- add(item)
+- remove(item)
+- contains(item)
 
 Non-core methods
--toArray() - this method will return an array of elements in the ADT
--clear()
--getSize()
--isEmpty
+- toArray() - this method will return an array of elements in the ADT
+- clear()
+- getSize()
+- isEmpty
 
 
 Implementation details
