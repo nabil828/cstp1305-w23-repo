@@ -2,7 +2,7 @@
 **Instructions**
 - Exam duration is 90 minutes.
 - Open book.
-- You may your previous labworks.
+- You may use your previous labworks.
 - You should demonstrate through JUNIT tests code that your implementation is working.
 
 
