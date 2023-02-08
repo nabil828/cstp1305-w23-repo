@@ -3,7 +3,7 @@
 - Exam duration is 90 minutes.
 - Open book.
 - You may your previous labworks.
-- You should demonstrate through tests code that your implementation is working.
+- You should demonstrate through JUNIT tests code that your implementation is working.
 
 
 
@@ -50,5 +50,4 @@ Bonus - More Implementation Details
 
 **Formatting and style conventions** [-10% if not cared for]
 -- Naming conventions - https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
--- Add the ADT description in the interface.
--- For each method in the interface, add specifications (pre and post-conditions).
+-- Add the ADT description in the interface. For each method in the interface, add specifications (pre and post-conditions).
